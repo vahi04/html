@@ -4,3 +4,4 @@ for y in x:
     if y =="araina":
         break
     print(y)
+    print("vahi")
